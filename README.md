@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+⚡ My Sad LeetCode Stats:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/m-melgizin?theme=dark&font=Baloo%202&ext=heatmap)
+
 <!--
 **m-melgizin/m-melgizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
